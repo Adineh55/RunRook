@@ -1,0 +1,36 @@
+RunRook
+Copyright (c) 2026 Horizon Path SPC. All rights reserved.
+
+RunRook is proprietary software. Its source code is confidential and is not
+published or licensed to anyone.
+
+Use of the app
+Horizon Path SPC grants you a free, non-exclusive, non-transferable licence to
+install and use the official RunRook releases, as distributed by Horizon Path SPC,
+on computers you own or control, for personal or work use. Some features may
+require a paid licence; when they do, the terms shown at purchase apply to them.
+
+You may not:
+- copy, sell, rent, sublicense or redistribute RunRook, except that you may keep
+  copies of the official installer for your own use;
+- modify RunRook, or decompile, disassemble or reverse engineer it, except where
+  the law expressly allows this despite this restriction;
+- remove or change copyright notices or these terms;
+- work around any licence check or feature limit.
+
+Third-party components
+RunRook includes open-source components. Each is licensed under its own terms,
+which continue to apply to that component and take precedence over this notice
+for it. See THIRD_PARTY_NOTICES.md and the licences inside the app
+(RunRook.app/Contents/Resources/licenses/).
+
+Product names and logos belong to their owners. RunRook isn't affiliated with or
+endorsed by them.
+
+No warranty
+RunRook is provided "as is", without warranty of any kind, express or implied,
+including fitness for a particular purpose and non-infringement. To the extent
+the law allows, Horizon Path SPC is not liable for any damages arising from the
+use of RunRook.
+
+Contact: https://adineh.me
