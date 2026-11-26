@@ -2,7 +2,7 @@
 
 ## Reporting a problem
 
-Please report security problems privately, not in a public issue: use **[Report a vulnerability](https://github.com/Adineh55/RunRook/security/advisories/new)** on this repository. Include the RunRook version (shown at the bottom of Settings), what you did, and what happened. You'll get a reply within a week, and a fix or a plan within 30 days. Once a fixed release is out, you're welcome to publish your findings, and you'll be credited unless you'd rather not be.
+Please report security problems privately, not in a public issue: use **[Report a vulnerability](https://github.com/Adineh55/RunRook/security/advisories/new)** on this repository. If you can't use GitHub, email [security@runrook.app](mailto:security@runrook.app). Include the RunRook version (shown at the bottom of Settings), what you did, and what happened. You'll get a reply within a week, and a fix or a plan within 30 days. Once a fixed release is out, you're welcome to publish your findings, and you'll be credited unless you'd rather not be.
 
 Supported: the latest release. Updates install automatically, so fixes reach everyone through the normal update.
 
