@@ -17,7 +17,7 @@ This repository holds RunRook's releases only. The app's source is private.
 
 ## What you get
 
-- **Every session in one list:** Claude Code and Codex (live, started before RunRook opened, and the last 7 days), local models in Ollama and LM Studio, and Cursor (preview). Open one for its story: your messages, the agent's replies, the commands it ran and what failed.
+- **Every session in one list:** Claude Code and Codex (live, started before RunRook opened, and the last 7 days), agents built on the Claude Agent SDK, local models in Ollama and LM Studio, and Cursor (preview). Open one for its story: your messages, the agent's replies, the commands it ran and what failed.
 - **"Needs you" alerts** in Notification Center and the menu bar when an agent waits for you.
 - **Answer and follow up:** pick an answer to an agent's question, send a follow-up, or continue a closed Claude Code or Codex session inside RunRook, with Allow and Deny for its permission prompts. Only you can reply.
 - **Your other computers:** add a Mac, Linux or Windows computer with one setup command and a matching code. Add a Linux server over SSH with the setup you already use: RunRook shows its fingerprint to compare, keeps its helper up to date and finds agents in containers under your account. <!-- feature: server-history -->
